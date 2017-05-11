@@ -1,6 +1,6 @@
-# Project Name
+# Java Network Analysis
 
-This project has been written to meet the following criterias:
+This project was been written to meet the following criterias:
 
 Read a large file containing a network log dump, process the information, generate statics, save the data in any database and display using charts. The project was develop by using the following designs and framework:
 
