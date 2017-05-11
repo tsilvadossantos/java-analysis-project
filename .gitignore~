@@ -1,0 +1,13 @@
+/target
+/logs
+**/.DS_Store
+**/.nb-gradle
+/build
+/.gradle
+.idea
+*.iml
+classes/
+bin
+capture20110810.binetflow
+Input.txt
+Output.txt
