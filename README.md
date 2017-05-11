@@ -1,8 +1,8 @@
 # Java Network Analysis
 
-This project was been written to meet the following criterias:
+This project was developed to meet the following criterias:
 
-Read a large file containing a network log dump, process the information, generate statics, save the data in any database and display using charts. The project was develop by using the following designs and framework:
+Read a large file containing a network log dump, process the information and  generate statics, save the data in any database and display the collected information. The following designs and frameworks were used:
 
 1. Template Design Pattern				
 2. Command	Design Pattern							
