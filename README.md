@@ -1,6 +1,6 @@
 # Java Network Analysis
 
-This project was developed to meet the following criterias:
+This project was developed to meet the following criteria:
 
 Read a large file containing a network log dump, process the information and  generate statics, save the data in any database and display the collected information. The following designs and frameworks were used:
 
